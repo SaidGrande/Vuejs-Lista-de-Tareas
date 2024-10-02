@@ -1,1 +1,1 @@
-web: node src/App.vue
+web: npm run start
